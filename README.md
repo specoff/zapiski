@@ -1,4 +1,4 @@
-Записки СПЕЦОФФА
+Записки Specoff
 =======
 
 Zapiski, snippety i pr.
